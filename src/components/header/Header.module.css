@@ -1,0 +1,20 @@
+.siteHeader {
+  width: 100vw;
+  background-color: #77809e;
+}
+
+.logo {
+  width: 8em;
+  height: auto;
+}
+
+.siteNav,
+.siteNav_menu {
+  display: flex;
+  justify-content: space-between;
+  margin: auto 3em;
+}
+
+.siteNav_menu {
+  gap: 1em;
+}

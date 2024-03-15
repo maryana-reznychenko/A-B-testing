@@ -1,0 +1,36 @@
+/* GLOBAL STYLES */
+@import url("components/header/Header.module.css");
+
+/* RESET */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 1em;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(49, 12, 85);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+ul,
+li {
+  list-style: none;
+  align-self: center;
+}
+
+a {
+  text-decoration: none;
+  color: bisque;
+  cursor: pointer;
+}
